@@ -1,0 +1,8 @@
+2024-11-12 10:34:17,362 DEBUG [main] h.j.p.m.Main [Main.java:45] Test!
+2024-11-12 10:34:38,635 DEBUG [main] h.j.p.m.Main [Main.java:48] Test 2!
+2024-11-12 10:38:06,182 DEBUG [main] h.j.p.m.Main [Main.java:45] Ovo je debug poruka
+2024-11-12 10:38:06,187 INFO [main] h.j.p.m.Main [Main.java:46] Ovo je info poruka
+2024-11-12 10:38:06,187 WARN [main] h.j.p.m.Main [Main.java:47] Ovo je warn poruka
+2024-11-12 10:38:06,188 ERROR [main] h.j.p.m.Main [Main.java:48] Ovo je poruka greške
+2024-11-13 03:00:13,718 INFO [main] h.j.p.m.Main [BigDecimalInput.java:37] Pogresno unesena BigDecimal vrijednost. 
+2024-11-13 03:00:15,256 INFO [main] h.j.p.m.Main [BigDecimalInput.java:37] Pogresno unesena BigDecimal vrijednost. 
